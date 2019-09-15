@@ -1,0 +1,14 @@
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\bin\Debug\netcoreapp2.2\webApi.deps.json
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\bin\Debug\netcoreapp2.2\webApi.runtimeconfig.json
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\bin\Debug\netcoreapp2.2\webApi.runtimeconfig.dev.json
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\bin\Debug\netcoreapp2.2\webApi.dll
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\bin\Debug\netcoreapp2.2\webApi.pdb
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.csprojAssemblyReference.cache
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.csproj.CoreCompileInputs.cache
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.RazorAssemblyInfo.cache
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.RazorAssemblyInfo.cs
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.AssemblyInfoInputs.cache
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.AssemblyInfo.cs
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.RazorTargetAssemblyInfo.cache
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.dll
+C:\Users\Cengoo\Desktop\Angular\Starter\webApi\obj\Debug\netcoreapp2.2\webApi.pdb
